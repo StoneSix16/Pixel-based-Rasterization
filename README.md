@@ -1,6 +1,6 @@
 # Pixel-based Rasterization
 
-This is the rasterizer for the paper "[SPLATONIC](https://stonesix16.github.io/SPLATONIC/): Architectural Support for 3D Gaussian Splatting SLAM via Sparse Processing", which proposed a general acceleration framework SeeLe for 3DGS.
+This is the rasterizer for the paper "[SPLATONIC](https://stonesix16.github.io/splatonic/): Architectural Support for 3D Gaussian Splatting SLAM via Sparse Processing", which proposed a general acceleration framework SeeLe for 3DGS.
 
 The implementation is based on [diff-gaussian-rasterization](https://github.com/graphdeco-inria/diff-gaussian-rasterization/tree/59f5f77e3ddbac3ed9db93ec2cfe99ed6c5d121d) and [diff-gaussian-rasterization-w-depth](https://github.com/JonathonLuiten/diff-gaussian-rasterization-w-depth.git), but edited to achieve pixel-based rendering, thanks for thier works.
 
